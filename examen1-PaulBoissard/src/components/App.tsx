@@ -1,11 +1,12 @@
-import './App.css'
+import '../style/App.css'
+import Header from './Header.tsx'
 
-function App() {
+
+export default function App() {
   return (
     <>
-
+      <Header />
     </>
   )
 }
 
-export default App
