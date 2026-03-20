@@ -7,6 +7,7 @@ export default function Header() {
         <>
             <header>
                 <img src={scratch} alt="scratch" />
+                <h1>TINCAT</h1>
             </header>
         </>
     )
